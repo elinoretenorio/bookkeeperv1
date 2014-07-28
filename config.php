@@ -8,11 +8,11 @@ $config = array(
 	'nav' => array('home'),
 	'types' => array('checkout' => 'Checkout', 'search' => 'Search'),
 	'goodreads_url' => 'https://www.goodreads.com',
-	'goodreads_key' => '0ttV4D8h4u0BPyCctUlfTQ',
-	'goodreads_secret' => 'GuH7qExAwuSfu7SYSjIRXytH7HMkFTHSdrjksfqw',
+	'goodreads_key' => '',
+	'goodreads_secret' => '',
 	'worldcat_url' => 'http://xisbn.worldcat.org/webservices/xid',
-	'worldcat_key' => 'knLijgoIMr8z9EFgQbOvWVTe8ksXsjWAvyolPYPBmLGXcI8lFGEZZt7VOsa8JpUli6Dj4W9IFNv1SHGt',
-	'worldcat_secret' => 'N7J+JQwwdA5DN9+ka4+MRA==',
+	'worldcat_key' => '',
+	'worldcat_secret' => '',
 	);
 
 require 'rb/rb.php';
